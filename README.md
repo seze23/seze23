@@ -1,4 +1,4 @@
-## Hi there 👋
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=jupyter+notebook&exclude_repo=some-old-repo)
 
 <!--
 **seze23/seze23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
