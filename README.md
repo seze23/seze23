@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sydney&fontSize=42&fontColor=fff&animation=twinkling)
-
 <div align="center">
-  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seze23&layout=compact&theme=synthwave&langs_count=10&hide=jupyter+notebook&card_width=600)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling)
+
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
-
 <!--
 **seze23/seze23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
