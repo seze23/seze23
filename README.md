@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seze23&layout=compact&theme=radical&langs_count=10&hide=jupyter+notebook&card_width=600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seze23&layout=compact&theme=midnight_purple&langs_count=10&hide=jupyter+notebook&card_width=600)
 
 </div>
 
