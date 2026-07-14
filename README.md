@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seze23&layout=compact&theme=synthwave&langs_count=10&hide=jupyter+notebook&card_width=600)
+![Top Languages](https://YOUR-PROJECT-NAME.vercel.app/api/top-langs/?username=seze23&layout=compact&theme=synthwave&langs_count=10&card_width=600&count_private=true)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling)
 
